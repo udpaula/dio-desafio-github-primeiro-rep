@@ -6,6 +6,7 @@ git commit --m "descrição"(altera e manda para o git)
 git config --global --unset user.email - remover email do git
 git config --global user.email - cadastrar e-mail
 git clone: clona diretório;
+git push origin main - mandar para o Git
 
 Git comandos para gerar o SSH:
 
