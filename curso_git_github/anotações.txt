@@ -1,0 +1,21 @@
+Comandos git
+
+git add nomedoarquivo
+git status(verifica o status)
+git commit --m "descrição"(altera e manda para o git)
+git config --global --unset user.email - remover email do git
+git config --global user.email - cadastrar e-mail
+git clone: clona diretório;
+
+Git comandos para gerar o SSH:
+
+Gerar chave:
+
+ ssh-keygen -t ed25519 -C email@dominio.com
+
+Ativar o agent:
+eval $(ssh-agent -s)
+
+Adiconar ssh ao agente:
+ssh-add id_ed25519
+
