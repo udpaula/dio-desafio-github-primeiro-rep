@@ -1,4 +1,4 @@
-Comandos git
+Comandos git:
 
 git add nomedoarquivo
 git status(verifica o status)
